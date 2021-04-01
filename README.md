@@ -1,11 +1,8 @@
 # Social-Network-for-Pets
 
-Random color picker is a React project.
+Social-Network-for-Pets is a React project.
 
-In this project, you’ll build a program that helps designers think of new color schemes.
-
-Our program will set the screen’s background to a random color. Clicking a button will refresh to a new, random color. Random generators are a well-known tool for breaking a creative rut.
-
+In this project, you’ll build a simple social network for pets. You’ll be able to view a pet’s profile (which contains their name, bio, and friend list) and navigate to other profiles. There will also be a profile directory where you can see all of the profiles.
 
 ## Installation
 
